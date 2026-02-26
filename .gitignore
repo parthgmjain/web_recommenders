@@ -1,0 +1,11 @@
+# datasets
+data/
+*.parquet
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# mac
+.DS_Store
