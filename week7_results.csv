@@ -1,0 +1,4 @@
+Model,CV_RMSE,Best_Params
+TopPop,3.3458694259478405,N/A
+KNN,1.0180764906965571,"{'k': 30, 'sim_options': {'name': 'cosine', 'user_based': False}}"
+SVD,0.9543128604962661,"{'n_factors': 50, 'n_epochs': 20, 'lr_all': 0.01, 'reg_all': 0.1}"
