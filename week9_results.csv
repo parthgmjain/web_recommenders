@@ -1,0 +1,11 @@
+Metric,Value
+Total items in dataset,932
+Items with descriptions,391
+Items with text after preprocessing,391
+Vocabulary size (before),10212
+Vocabulary size (after),6386
+Vocabulary reduction (%),37.5%
+TF-IDF features,500
+Sample item for similarity,B00006IJJK
+Top similar item,B000FQBPDU
+Top similarity score,0.2512
